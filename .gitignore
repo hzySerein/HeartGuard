@@ -1,0 +1,25 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+/app/build
+.android-home/
+.kotlin/
+.trae/
+.vscode/
+.claude/
+.mimocode/
+.android/
+app/schemas/
+
+# Generated files
+*.hprof
+*.log
+*.apk
+*.aab
+output.json

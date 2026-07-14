@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.HeartGuard" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowBackground">#FAF6E8</item>
+        <item name="android:windowSplashScreenBackground">#FAF6E8</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/app_icon</item>
+    </style>
+</resources>
